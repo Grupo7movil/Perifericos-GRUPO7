@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SPRINT1</string>
+
+    // Strings MainActivity
+    <string name="btn_home">HOME</string>
+
+    // Strings MainActivity2
+    <string name="btn_info">+INFO</string>
+    <string name="text_audifonos">AUDIFONOS</string>
+    <string name="text_monitor">MONITOR</string>
+    <string name="text_product3">TECLADO</string>
+    <string name="text_a2">PRODUCTOS DISPONIBLES</string>
+    <string name="some_description">CALIDAD PRECIO</string>
+
+    // Strings MainActivity3
+    <string name="btn_back">VOLVER</string>
+</resources>
